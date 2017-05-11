@@ -1,0 +1,26 @@
+{
+  "name": "Kurfunk",
+  "url": "https://wiki.freifunk.net/Kurfunk",
+  "location": {
+    "city": "Bad Nauheim",
+    "lat": 50.366667,
+    "lon": 8.75
+  },
+  "contact": {
+    "email": "kurfunk@gmail.com"
+  },
+  "state": {
+    "description": "Kurfunk ist der Name der neu entstehenden Community in der Kurstadt Bad-Nauheim",
+    "focus": [
+      "Public Free Wifi",
+      "Local services and content"
+    ],
+    "lastchange": "2017-05-11T19:11:20.588Z"
+  },
+  "api": "0.4.14",
+  "techDetails": {
+    "routing": [],
+    "updatemode": [],
+    "legals": []
+  }
+}
